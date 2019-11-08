@@ -22,11 +22,6 @@ public class Program {
 		
 		JOptionPane.showMessageDialog(null, gameInfo);
 		
-<<<<<<< HEAD
-		System.out.println();
-=======
-		System.out.println("hi gitfl00gg045566666");
->>>>>>> refs/remotes/origin/master
 
 	}
 }
