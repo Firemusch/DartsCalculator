@@ -22,7 +22,7 @@ public class Program {
 		
 		JOptionPane.showMessageDialog(null, gameInfo);
 		
-		System.out.println("hi gitfl00gg0");
+		System.out.println("hi gitfl00gg045566666");
 
 	}
 }
