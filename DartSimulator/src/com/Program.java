@@ -12,9 +12,9 @@ public class Program {
 	    System.out.println(players);
 		
 	    Object[] gameValues = { "301", "501", "170" };
-	    String initialSelection = "501";
+	    String gameInitialSelection = "501";
 	    Object gameMode = JOptionPane.showInputDialog(null, "Game Mode:",
-	        "Darts Game", JOptionPane.QUESTION_MESSAGE, null, gameValues, initialSelection);
+	        "Darts Game", JOptionPane.QUESTION_MESSAGE, null, gameValues, gameInitialSelection);
 	    System.out.println(gameMode);
 		
 		String gameInfo;
@@ -22,7 +22,7 @@ public class Program {
 		
 		JOptionPane.showMessageDialog(null, gameInfo);
 		
-		
+		System.out.println();
 
 	}
 }
