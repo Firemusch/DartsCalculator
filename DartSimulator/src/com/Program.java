@@ -22,8 +22,6 @@ public class Program {
 		
 		JOptionPane.showMessageDialog(null, gameInfo);
 		
-		System.out.println("what");
-		
 
 	}
 }
