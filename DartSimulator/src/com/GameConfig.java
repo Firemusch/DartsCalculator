@@ -7,6 +7,10 @@ public class GameConfig {
 	String playerInitialSelection = "1";
 	Object players = JOptionPane.showInputDialog(null, "Spieler:", "Darts Game", JOptionPane.QUESTION_MESSAGE, null,
 			playerValues, playerInitialSelection);
+	
+	String player1 = JOptionPane.showInputDialog("Name Spieler 1:");
+	
+
 
 	Object[] gameValues = { "301", "501", "170" };
 	String gameInitialSelection = "501";
